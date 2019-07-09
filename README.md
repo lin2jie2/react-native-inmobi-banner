@@ -148,5 +148,5 @@ export default class extends Component {
 
 ## 补充说明
 
-广告至支持 320x50 。
+广告只支持 320x50 。
 由于我一直处于 ```onAdLoadFailed({reason: "Ad request successful but no ad served."})``` 状态。后续的相关内容没法继续。所以出问题要靠你自己解决。
